@@ -28,10 +28,18 @@
 
     <section id="competences">
         <h1>Compétences</h1>
+        <p>Domaines de compétences :</p>
+        <ul>
+            <li>Reseau <img src="../images/icons8-étoile-30.png" width="20" height="20"><img src="../images/icons8-étoile-30.png" width="20" height="20"><img src="../images/icons8-étoile-30.png" width="20" height="20"><img src="../images/icons8-étoile-50.png" width="20" height="20"><img src="../images/icons8-étoile-50.png" width="20" height="20"></li>
+            <li>Developpement<img src="../images/icons8-étoile-30.png" width="20" height="20"><img src="../images/icons8-étoile-30.png" width="20" height="20"><img src="../images/icons8-étoile-50.png" width="20" height="20"><img src="../images/icons8-étoile-50.png" width="20" height="20"><img src="../images/icons8-étoile-50.png" width="20" height="20"></li>
+            <li>Langues<img src="../images/icons8-étoile-30.png" width="20" height="20"><img src="../images/icons8-étoile-30.png" width="20" height="20"><img src="../images/icons8-étoile-50.png" width="20" height="20"><img src="../images/icons8-étoile-50.png" width="20" height="20"><img src="../images/icons8-étoile-50.png" width="20" height="20"></li>
+        </ul>
+        
     </section>
 
     <section id="experience">
     <h1>Expérience</h1>
+    <h2></h2>
     </section>
 
     <section id="formation">
@@ -40,7 +48,26 @@
 
     <section id="contact">
         <h1>Contact</h1>
-        <h2>nakdnekdbjnakdnekdbjnakdnekdbjnakdnekdb</h2>
+        <h3>Envoie d'un Message :</h3>
+        <form action="../php/traitement_formulaire.php" method="post">
+            <label for="nom">Nom de l'expéditeur :</label>
+            <input type="text" id="nom" name="nom" required>
+            <br>
+        
+            <label for="email">Adresse de courriel de l'expéditeur :</label>
+            <input type="email" id="email" name="email" required>
+            <br>
+        
+            <label for="objet">Objet du message :</label>
+            <input type="text" id="objet" name="objet" required>
+            <br>
+        
+            <label for="message">Contenu du message :</label>
+            <textarea id="message" name="message" rows="4" cols="50" required></textarea>
+            <br>
+        
+            <input type="submit" value="Envoyer">
+          </form>
     </section>
     
    
