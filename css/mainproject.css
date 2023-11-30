@@ -23,7 +23,10 @@ li.main a {
 body{
     background-color: #73C2FB;
 }
-#competences
+ul.competences
 {
     font-size: 25px;
+}
+.exprouge{
+    color: red;
 }
