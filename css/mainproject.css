@@ -30,3 +30,8 @@ ul.competences
 .exprouge{
     color: red;
 }
+.etoile{
+    width: 20px;
+    height: auto;
+    margin-right: 5px;
+}

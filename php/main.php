@@ -16,19 +16,27 @@
         <li class="main"><a href="#contact">Contact</a></li>
     </ul>
     <section id="accueil">
-
+    <?php
+    require ("acceuil.php")
+    ?>
     </section>
 
     <section id="apropos">
-
+    <?php
+    require ("apropos.php")
+    ?>
     </section>
 
     <section id="competences">
-        
+        <?php
+        require ("competences.php")
+        ?>
     </section>
 
     <section id="experience">
-
+        <?php
+        require ("experience.php")
+        ?>
     </section>
 
     <section id="formation">
