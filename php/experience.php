@@ -1,5 +1,5 @@
 <?php
-require "./../Yaml/vendor/autoload.php";
+//require "./../Yaml/vendor/autoload.php";
 use Symfony\Component\Yaml\Yaml;
 
 
