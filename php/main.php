@@ -33,10 +33,9 @@
         ?>
     </section>
 
-    <section id="experience">
-        <?php
-        require ("experience.php")
-        ?>
+    <section id="experiences">
+      <h1>Expériences professionnelles</h1>
+      <?php require 'experience.php'; ?>
     </section>
 
     <section id="formation">
