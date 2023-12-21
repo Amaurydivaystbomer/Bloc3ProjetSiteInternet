@@ -1,2 +1,30 @@
-experiences:
-        
+- entreprise: Leclerc
+  poste: Salarié
+  debut: 01/07/2023
+  fin: 02/09/2023
+  lieu: Bayeux
+  taches:
+    - Mise en rayon
+    - Facing
+    - Acceuil des livraisons
+
+- entreprise: Androme Informatique
+  poste: Stagiaire
+  debut: 22/05/2023
+  fin: 30/06/2023
+  lieu: Bayeux
+  taches:
+    - Mise en place de Réseaux
+    - Acceuil Clientèle
+    - Réparation a Domicile 
+
+- entreprise: Carrefour Contact
+  poste: Salarié
+  debut: 01/07/2023
+  fin: 1/09/2023
+  lieu: Le Molay Littry
+  taches:
+    - Mise en rayon
+    - Facing
+    - Caisse 
+
