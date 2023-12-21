@@ -31,7 +31,13 @@ ul.competences
     color: red;
 }
 .etoile{
-    width: 20px;
+    width: 67px;
+    height: auto;
+    margin-right: 5px;
+}
+.etoile2
+{
+    width: 67px;
     height: auto;
     margin-right: 5px;
 }

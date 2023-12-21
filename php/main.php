@@ -11,8 +11,8 @@
         <li class="main"><a href="#acceuil">Accueil</a></li>
         <li class="main"><a href="#apropos">A propos</a></li>
         <li class="main"><a href="#competences">Compétences</a></li>
-        <li class="main"><a href="#experience">Expérience</a></li>
-        <li class="main"><a href="#formation">Formation</a></li>
+        <li class="main"><a href="#experience">Expériences</a></li>
+        <li class="main"><a href="#formation">Formations</a></li>
         <li class="main"><a href="#contact">Contact</a></li>
     </ul>
     <section id="accueil">
